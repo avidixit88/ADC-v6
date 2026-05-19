@@ -1,0 +1,38 @@
+tier,target,gene,aliases,notes
+Validated,HER2,ERBB2,"HER2; ERBB2; HER-2; Human Epidermal Growth Factor Receptor 2; trastuzumab deruxtecan; T-DXd; Enhertu; Kadcyla; T-DM1",Most validated solid tumor ADC target
+Validated,TROP2,TACSTD2,"TROP2; TROP-2; TACSTD2; Trodelvy; sacituzumab govitecan; datopotamab deruxtecan; Dato-DXd",High-activity pan-solid tumor ADC target
+Validated,Nectin-4,NECTIN4,"Nectin-4; NECTIN4; Padcev; enfortumab vedotin",Validated urothelial ADC target
+Validated,FR alpha,FOLR1,"FRalpha; FRα; folate receptor alpha; FOLR1; Elahere; mirvetuximab soravtansine",Validated ovarian ADC target
+Validated,Tissue Factor,F3,"Tissue Factor; TF; F3; Tivdak; tisotumab vedotin",Validated solid tumor ADC target
+Validated,EGFR,EGFR,"EGFR; epidermal growth factor receptor; MRG003; depatuxizumab mafodotin",Clinically active but toxicity/selectivity sensitive
+Validated,CD30,TNFRSF8,"CD30; TNFRSF8; Adcetris; brentuximab vedotin",Validated hematologic ADC target
+Validated,CD33,CD33,"CD33; gemtuzumab ozogamicin; Mylotarg",Validated AML ADC target
+Validated,CD22,CD22,"CD22; inotuzumab ozogamicin; Besponsa",Validated B-cell malignancy ADC target
+Validated,CD19,CD19,"CD19; loncastuximab tesirine; Zynlonta",Validated B-cell malignancy ADC target
+Validated,CD79b,CD79B,"CD79b; CD79B; polatuzumab vedotin; Polivy",Validated lymphoma ADC target
+Validated,BCMA,TNFRSF17,"BCMA; TNFRSF17; B-cell maturation antigen; belantamab mafodotin; Blenrep",Validated myeloma ADC target
+Emerging,B7-H3,CD276,"B7-H3; B7H3; CD276; vobramitamab duocarmazine; MGC018; ifinatamab deruxtecan; I-DXd",Hot solid tumor ADC target
+Emerging,B7-H4,VTCN1,"B7-H4; B7H4; VTCN1; AZD8205; SGN-B7H4V",Hot ovarian and breast ADC target
+Emerging,CLDN18.2,CLDN18,"CLDN18.2; Claudin 18.2; CLDN18; CMG901; zolbetuximab; SYSA1801",GI/pancreatic ADC and antibody target
+Emerging,ROR1,ROR1,"ROR1; receptor tyrosine kinase-like orphan receptor 1; zilovertamab vedotin; NBE-002",Solid and hematologic target
+Emerging,HER3,ERBB3,"HER3; ERBB3; patritumab deruxtecan; HER3-DXd; U3-1402",Strong lung and breast ADC target
+Emerging,c-Met,MET,"c-Met; MET; mesenchymal epithelial transition factor; telisotuzumab vedotin; ABBV-399",Lung/GI relevance
+Emerging,CDH6,CDH6,"CDH6; cadherin-6; raludotatug deruxtecan; R-DXd; DS-6000",Ovarian and renal relevance
+Emerging,CEACAM5,CEACAM5,"CEACAM5; CEA; carcinoembryonic antigen; tusamitamab ravtansine",GI/lung target
+Emerging,MUC1,MUC1,"MUC1; MUC1-C; CA15-3; gatipotuzumab deruxtecan",Broad epithelial tumor target
+Emerging,ITGB6,ITGB6,"ITGB6; integrin beta-6; SGN-B6A",Solid tumor target
+Emerging,SEZ6,SEZ6,"SEZ6; seizure related 6 homolog; ABBV-011",SCLC/neuroendocrine interest
+Emerging,DLL3,DLL3,"DLL3; delta-like ligand 3; rovalpituzumab tesirine; Rova-T; tarlatamab",SCLC/neuroendocrine relevance
+Emerging,PSMA,FOLH1,"PSMA; FOLH1; prostate-specific membrane antigen; MLN2704",Prostate ADC/radioligand target
+Emerging,STEAP1,STEAP1,"STEAP1; six transmembrane epithelial antigen of prostate 1",Prostate ADC target
+Emerging,CD46,CD46,"CD46; membrane cofactor protein; FOR46",Prostate and solid tumor interest
+Emerging,NaPi2b,SLC34A2,"NaPi2b; NaPi-2b; SLC34A2; upifitamab rilsodotin; XMT-1536",Ovarian/lung target
+Emerging,Mesothelin,MSLN,"Mesothelin; MSLN; anetumab ravtansine",Ovarian/mesothelioma/pancreatic target
+Emerging,FGFR2b,FGFR2,"FGFR2b; FGFR2; bemarituzumab; aprutumab ixadotin",GI/gastric target
+Emerging,LIV-1,SLC39A6,"LIV-1; SLC39A6; ladiratuzumab vedotin",Breast ADC target
+Emerging,AXL,AXL,"AXL; BA3011; enapotamab vedotin",Resistance/EMT biology
+Emerging,EphA2,EPHA2,"EphA2; EPHA2; MEDI-547",Solid tumor target
+Emerging,EphA5,EPHA5,"EphA5; EPHA5",Emerging solid tumor target
+Emerging,PTK7,PTK7,"PTK7; protein tyrosine kinase 7; cofetuzumab pelidotin",Developmental/tumor target
+Emerging,5T4,TPBG,"5T4; TPBG; trophoblast glycoprotein; ASN004",Solid tumor target
+Emerging,CA9,CA9,"CA9; CAIX; carbonic anhydrase IX",Renal/hypoxia target
